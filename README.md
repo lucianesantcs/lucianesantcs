@@ -6,12 +6,12 @@
 
 </span>
 
-<p align="center">
+<span align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianesantcs&show_icons=true&title_color=fff&icon_color=b52783&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175/>
-</p>
+</span>
 
-<p align="center">
+<span align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianesantcs&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175 />
-</p>
+</span>
 
 
