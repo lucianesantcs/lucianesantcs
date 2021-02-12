@@ -2,7 +2,7 @@
   
 ### Desenvolvedora Front-End
 
-<a href="https://www.linkedin.com/in/lucianesantcs/">![image](https://flat.badgen.net/badge/in/lucianesantcs/black)</a> <a href="mailto:lucianesantcs@gmail.com">![image](https://flat.badgen.net/badge/e-mail/lucianesantcs@gmail.com/black)</a> <a href="https://dribbble.com/lucianesantos">![image](https://flat.badgen.net/badge/dribbble/lucianesantos/black)</a>
+<a href="https://lucianesantcs.github.io/">![image](https://flat.badgen.net/badge/live/portfolio/black)</a> <a href="https://www.linkedin.com/in/lucianesantcs/">![image](https://flat.badgen.net/badge/in/lucianesantcs/black)</a> <a href="mailto:lucianesantcs@gmail.com">![image](https://flat.badgen.net/badge/e-mail/lucianesantcs@gmail.com/black)</a> <a href="https://dribbble.com/lucianesantos">![image](https://flat.badgen.net/badge/dribbble/lucianesantos/black)</a>
 
 </span>
 
