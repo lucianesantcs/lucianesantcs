@@ -1,8 +1,8 @@
 <span align="center">
   
 ### Desenvolvedora Front-End
- 
-<a href="https://www.linkedin.com/in/lucianesantcs/">![image](https://flat.badgen.net/badge/in/lucianesantcs/black)</a> <a href="mailto:lucianesantcs@gmail.com">![image](https://flat.badgen.net/badge/e-mail/lucianesantcs@gmail.com/black)</a> <a href="https://dribbble.com/lucianesantos">![image](https://flat.badgen.net/badge/dribbble/lucianesantos/black)</a>
+
+<a href="https://lucianesantcs.github.io/"><img src="https://img.shields.io/badge/portfolio-%23d76aa8.svg?&style=flat-square&logo=github&logoColor=white" alt="Portfolio" title="Portfolio"></a> <a href="https://www.linkedin.com/in/lucianesantcs/"><img src="https://img.shields.io/badge/lucianesantcs-%23d76aa8.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"></a> <a href="mailto:lucianesantcs@gmail.com"><img src="https://img.shields.io/badge/lucianesantcs-%23d76aa8.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"></a> <a href="https://dribbble.com/lucianesantos"><img src="https://img.shields.io/badge/lucianesantos-%23d76aa8.svg?&style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" title="Dribbble"></a>
 
 </span>
 
