@@ -7,11 +7,11 @@
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianesantcs&show_icons=true&theme=material-palenight&bg_color=1a1c26" alt="Github Stats" height=175/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianesantcs&show_icons=true&theme=material-palenight&bg_color=1a1c26&hide_border=true" alt="Github Stats" height=175/>
 </span>
 
 <span align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianesantcs&layout=compact&theme=material-palenight&bg_color=1a1c26" alt="Github Stats" height=175 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianesantcs&layout=compact&theme=material-palenight&bg_color=1a1c26&hide_border=true" alt="Github Stats" height=175 />
 </span>
 
 
