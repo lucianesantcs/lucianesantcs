@@ -1,7 +1,7 @@
 <div align="left">
 
 ### ⚡ Desenvolvedora Front-End 
-Com interesse em UI Design, focada na linguagem JavaScript / ReactJs & Angular.
+Focada na linguagem JavaScript / ReactJs & Angular, com interesse em UI Design.
     
 #### 💻 Tecnologias:
 <img src="https://img.shields.io/badge/HTML5-%231e202c.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" title="HTML"> 
