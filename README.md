@@ -1,4 +1,4 @@
-### ⚡ Desenvolvedora Front-End 
+### ⚡ Front-End Designer 
 Focada na linguagem JavaScript / ReactJs & Angular, com interesse em UI Design.
 
 <div align="left">
@@ -22,7 +22,7 @@ Focada na linguagem JavaScript / ReactJs & Angular, com interesse em UI Design.
 
 </div>
 
-<!--- 
+
 <div align="left">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianesantcs&show_icons=true&theme=nord&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
@@ -30,5 +30,5 @@ Focada na linguagem JavaScript / ReactJs & Angular, com interesse em UI Design.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianesantcs&layout=compact&theme=nord&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
 
 </div>
---->
+
 
