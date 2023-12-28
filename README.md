@@ -1,5 +1,5 @@
-### ⚡ Front-End Developer 
-Focada na linguagem JavaScript / ReactJs & Angular, com interesse em UI Design.
+### ⚡ Front-End Developer & UI Designer
+Focada na linguagem JavaScript / ReactJs & Angular.
 
 <div align="left">
 
