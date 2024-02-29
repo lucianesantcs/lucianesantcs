@@ -3,7 +3,7 @@ Focada na linguagem JavaScript / ReactJs & Angular.
 
 Ao longo dos anos tenho trilhado uma jornada no mundo da programação, focando especialmente no Front-End, destacando-me em Angular, TypeScript, JavaScript e ReactJS. Utilizo o Figma para criar layouts, transformando ideias em páginas web interativas.
 
-Atuo como Desenvolvedora Front-End na empresa [ed](https://www.linkedin.com/company/somosed), lidando no dia a dia com as linguagens NodeJs, TypeScript, GraphQL; Consumindo API's Rest, e analisando e desenvolvendo interfaces através de layouts construídas no Figma. 
+Atuo como Desenvolvedora Front-End na empresa [ed](https://www.linkedin.com/company/somosed), lidando no dia a dia com as linguagens NodeJs, TypeScript, GraphQL; Consumindo API's Rest, analisando e desenvolvendo interfaces através de layouts construídas no Figma. 
 
 <div align="left">
 
