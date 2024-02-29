@@ -26,6 +26,11 @@ Atuo como Desenvolvedora Front-End na empresa [ed](https://www.linkedin.com/comp
 
 </div>
 
+<details>
+<summary>
+  🐙 <strong>Github Stats</strong>
+</summary>
+<br >
 
 <div align="left">
   
