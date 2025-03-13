@@ -1,7 +1,7 @@
 ### Front-End Developer & UI Designer
 Focada na linguagem JavaScript / ReactJs & Angular.
 
-Profissional Front-End com mais de três anos de experiência em desenvolvimento web dominando as linguagens HTML, CSS/Sass, JavaScript e TypeScript. Criação de layouts utilizando o framework Angular e biblioteca ReactJS. Conhecimento de User Interface/User Experience para o design de interfaces utilizando a ferramenta Figma.
+Profissional Front-End com mais de três anos de experiência em desenvolvimento web dominando as linguagens HTML, CSS/Sass, JavaScript e TypeScript. Criação de layouts utilizando o framework Angular e biblioteca ReactJS. Conhecimento de User Interface/User Experience para o design de interfaces utilizando a ferramenta Figma. Atualmente cursando graduação de Análise e Desenvolvimento de Sistemas na universidade Newton Paiva.
 
 Atuo como Desenvolvedora Front-End na empresa [ed](https://www.linkedin.com/company/somosed), lidando no dia a dia com as linguagens NodeJs, TypeScript, GraphQL; Consumindo API's Rest, analisando e desenvolvendo interfaces através de layouts construídas no Figma. 
 
