@@ -3,7 +3,7 @@ Focada na linguagem JavaScript / ReactJs & Angular.
 
 Profissional Front-End com mais de três anos de experiência em desenvolvimento web. Atuo no desenvolvimento de layouts utilizando o Angular 12+ e biblioteca ReactJS. Possuo conhecimento de User Interface/User Experience para o design e prototipagem de interfaces utilizando a ferramenta Figma. Comecei como autodidata dominando as linguagens HTML, CSS/SASS, JavaScript/TypeScript e atualmente estou cursando graduação de Análise e Desenvolvimento de Sistemas na universidade Newton Paiva.
 
-Atuo como Desenvolvedora Front-End na empresa [ed](https://www.linkedin.com/company/somosed), lidando no dia a dia com as linguagens NodeJs, TypeScript, GraphQL; Consumindo API's Rest, analisando e desenvolvendo interfaces através de layouts construídas no Figma. 
+Atuo como Desenvolvedora Front-End na empresa [icatu seguros]([https://www.linkedin.com/company/somosed](https://portal.icatuseguros.com.br/), lidando no dia a dia com as linguagens NodeJs, TypeScript, GraphQL; Consumindo API's Rest, analisando e desenvolvendo interfaces através de layouts construídas no Figma. 
 
 <div align="left">
 
