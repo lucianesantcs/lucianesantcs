@@ -26,18 +26,5 @@ Atuo como Desenvolvedora Front-End na empresa [icatu seguros](https://portal.ica
 
 </div>
 
-<details>
-<summary>
-  <strong>Github Stats</strong>
-</summary>
-<br >
-
-<div align="left">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianesantcs&show_icons=true&theme=nord&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianesantcs&layout=compact&theme=nord&bg_color=0D1017&hide_border=true" alt="Github Stats" height=175 />
-
-</div>
 
 
