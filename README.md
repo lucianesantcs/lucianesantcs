@@ -1,5 +1,4 @@
 ### Front-End Developer & UI Designer
-Angular & ReactJs
 
 Desenvolvedora Front-End na [icatu seguros](https://portal.icatuseguros.com.br/)
 <br>
